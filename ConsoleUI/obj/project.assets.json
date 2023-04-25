@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaana\\source\\repos\\RentACar\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "D:\\rentCarProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\kaana\\source\\repos\\RentACar\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "D:\\rentCarProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\kaana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaana\\source\\repos\\RentACar\\ConsoleUI\\obj\\",
+      "outputPath": "D:\\rentCarProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

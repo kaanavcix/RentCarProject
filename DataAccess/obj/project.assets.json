@@ -3260,11 +3260,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaana\\source\\repos\\RentACar\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\rentCarProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\kaana\\source\\repos\\RentACar\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\rentCarProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\kaana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaana\\source\\repos\\RentACar\\DataAccess\\obj\\",
+      "outputPath": "D:\\rentCarProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3284,11 +3284,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\kaana\\source\\repos\\RentACar\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\kaana\\source\\repos\\RentACar\\Core\\Core.csproj"
+            "D:\\rentCarProject\\Core\\Core.csproj": {
+              "projectPath": "D:\\rentCarProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\kaana\\source\\repos\\RentACar\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\kaana\\source\\repos\\RentACar\\Entity\\Entity.csproj"
+            "D:\\rentCarProject\\Entity\\Entity.csproj": {
+              "projectPath": "D:\\rentCarProject\\Entity\\Entity.csproj"
             }
           }
         }

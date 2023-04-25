@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6uo5P10QrwTQuG0xFl9MgXM2qSmGlZfidx2aqV48w4oCzKfCY/tuJxezieouCP9DdbhOo2FgP33r15r80SW12A==",
+  "dgSpecHash": "q0lz+RNL6ZR5/SBTq7xWIHx6cGW8e2RB4KtXfpyw2ifgmnQOstyhE8npRplJRb3hB4wvxTWxELiRGABuqFu9Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaana\\source\\repos\\RentACar\\Core\\Core.csproj",
+  "projectFilePath": "D:\\rentCarProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaana\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\kaana\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
