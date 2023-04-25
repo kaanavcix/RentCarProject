@@ -1,0 +1,15 @@
+D:\rentCarProject\Entity\bin\Debug\net6.0\Entity.deps.json
+D:\rentCarProject\Entity\bin\Debug\net6.0\Entity.dll
+D:\rentCarProject\Entity\bin\Debug\net6.0\Entity.pdb
+D:\rentCarProject\Entity\bin\Debug\net6.0\Core.dll
+D:\rentCarProject\Entity\bin\Debug\net6.0\Core.pdb
+D:\rentCarProject\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\rentCarProject\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\rentCarProject\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\rentCarProject\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\rentCarProject\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\rentCarProject\Entity\obj\Debug\net6.0\Entity.csproj.CopyComplete
+D:\rentCarProject\Entity\obj\Debug\net6.0\Entity.dll
+D:\rentCarProject\Entity\obj\Debug\net6.0\refint\Entity.dll
+D:\rentCarProject\Entity\obj\Debug\net6.0\Entity.pdb
+D:\rentCarProject\Entity\obj\Debug\net6.0\ref\Entity.dll
